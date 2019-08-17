@@ -6,6 +6,8 @@ Attempt to Model Trader Joe's Locations (i.e., predict where the next TJ's will 
 
 
 ## Map of Trader Joe's in NYC, Segmented by Median Household Income
-![Trader Joes Median Household Income](https://user-images.githubusercontent.com/33380363/59810595-0704fc00-92d4-11e9-9b98-befb5ddb8ac5.png)
 
+![MedianAgeTJs](https://user-images.githubusercontent.com/33380363/63216524-7e081680-c104-11e9-9e2f-29dc34218fd7.png)
+
+![Total_Population-TJs](https://user-images.githubusercontent.com/33380363/63216525-7e081680-c104-11e9-8902-173dcdc2751c.png)
 
